@@ -2,6 +2,11 @@
 Interactive Tableau Sales Dashboard analyzing 2020 sales, profit, quantity, product subcategories, and monthly performance trends to uncover actionable business insights.
 # 📊 Sales Performance Analysis Dashboard | Tableau
 
+## 📷 Dashboard Preview
+
+<img width="1146" height="702" alt="dasboard-preview" src="https://github.com/user-attachments/assets/00e40a00-462f-422c-9398-6f5e14582eb7" />
+
+
 ## 📌 Project Overview
 
 How can sales data help businesses understand performance and make better decisions?
@@ -52,10 +57,6 @@ Includes filters and interactive visual elements to explore sales data dynamical
 - **Sales Dataset** – Business and product performance analysis
 - **Data Analytics** – KPI analysis and trend identification
 - **Data Storytelling** – Communicating business insights visually
-
-## 📷 Dashboard Preview
-
-<img width="1146" height="702" alt="dasboard-preview" src="https://github.com/user-attachments/assets/00e40a00-462f-422c-9398-6f5e14582eb7" />
 
 
 
